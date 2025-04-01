@@ -1,3 +1,6 @@
+This project uses OpenCV,TensorFlow,MediaPipe and Python.
+
+
 1) Make sure to install the following in your system.
 
 1. Python – 3.x 
