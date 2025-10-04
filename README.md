@@ -20,3 +20,4 @@ Run “pip install tensorflow” to install the tensorflow module.
 
 mp3 player and video player: 
 ![Alt](https://github.com/kush1411330/hand-gesture-to-speech-converter/blob/main/Screenshot%202024-05-27%20134017%20copy.png)
+
